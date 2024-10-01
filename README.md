@@ -15,4 +15,4 @@
 
 ## SQL Solution
 
-<img width="664" alt="Screenshot 2024-10-01 at 22 09 09" src="https://github.com/user-attachments/assets/c3ead0fc-c202-4e75-9c4d-e3280ee2777d">
+<img width="637" alt="Screenshot 2024-10-01 at 22 12 21" src="https://github.com/user-attachments/assets/75b0da42-207e-43c2-be39-14d06b5c0418">
